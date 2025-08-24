@@ -1,0 +1,8 @@
+## ▶️ Ejecutar en Google Colab  
+
+https://colab.research.google.com/drive/1RKyrbGbtpkMZldAb7xEdA6KmxbSgbtmY?usp=sharing
+
+## ⚙️ Requisitos
+
+```bash
+pip install numpy pandas matplotlib seaborn scipy
